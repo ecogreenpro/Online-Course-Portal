@@ -27,6 +27,7 @@ MYSQL
 - Click the "New" link on the upper left corner (under recent tables)
 - Fill out the "Database Name" field with "campus".
 - Click the "Create" button
+- <a href="https://github.com/arvindnegi1/Online-Course-Portal/blob/master/campus.sql">Download sql file of project from here</a>
 - go to import and select downloaded campus.sql and click on go.
 - all the tables will be imported.
 
