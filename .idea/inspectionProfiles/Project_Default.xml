@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="name" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="django-xhtml2pdf" />
+            <item index="1" class="java.lang.String" itemvalue="html5lib" />
+            <item index="2" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="3" class="java.lang.String" itemvalue="future" />
+            <item index="4" class="java.lang.String" itemvalue="xhtml2pdf" />
+            <item index="5" class="java.lang.String" itemvalue="reportlab" />
+            <item index="6" class="java.lang.String" itemvalue="PyPDF2" />
+            <item index="7" class="java.lang.String" itemvalue="arabic-reshaper" />
+            <item index="8" class="java.lang.String" itemvalue="webencodings" />
+            <item index="9" class="java.lang.String" itemvalue="python-bidi" />
+            <item index="10" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
